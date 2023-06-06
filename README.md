@@ -1,4 +1,4 @@
-> I use mathematical modeling and data science to tackle the public health challenges of the 21st century.
+> *"I use mathematical modeling and data science to tackle the public health challenges of the 21st century."*
  
 I'm a computational epidemiologist 👨‍💻🦠 and head of the [Interfaculty Platform for Data and Computational Science (INPUT)](https://www.ispm.unibe.ch/research/research_groups_and_themes/input/index_eng.html) at the [Institute of Social and Preventive Medicine (ISPM)](https://www.ispm.unibe.ch) at the [University of Bern](https://www.unibe.ch), Switzerland. I'm also a member of the directorate of ISPM.
 
